@@ -19,7 +19,7 @@ The application aims to enhance efficiency in educational evaluation processes, 
 
 This innovative application combines technological advancements with educational needs, fostering a conducive environment for effective learning and assessment.
 
-## Acknowledgements
+## Source
 
  - [ Online Examination System With Timer using PHP MySQL | Free Source Code Download ](https://www.youtube.com/watch?v=W47wIRkC1js&t=472s)
 
